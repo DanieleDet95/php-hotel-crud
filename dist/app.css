@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+header {
+  background: blue;
+  padding: 20px;
+  color: white;
+}
+
+main {
+  padding: 20px 10px;
+}
+
+main .modifica {
+  border: 1px solid black;
+  padding: 5px;
+  margin: 10px 0px;
+  display: inline-block;
+  background: green;
+}
+
+main .cancellazione {
+  border: 1px solid black;
+  padding: 5px;
+  margin: 10px 0px;
+  display: inline-block;
+  background: red;
+}
+
+.rooms th {
+  padding: 8px;
+}
+
+.rooms td {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
+

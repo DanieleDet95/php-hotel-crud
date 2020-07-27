@@ -1,0 +1,27 @@
+main{
+  padding: 20px 10px;
+  .modifica{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px 0px;
+    display: inline-block;
+    background: green;
+  }
+  .cancellazione{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px 0px;
+    display: inline-block;
+    background: red;
+  }
+}
+.rooms{
+  th{
+    padding: 8px;
+  }
+  td{
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+  }
+}
